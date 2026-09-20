@@ -1,0 +1,8 @@
+{
+  "name": "Remix IRON FIT",
+  "description": "IRON FIT — Club Sportif Professionnel à Khemis Miliana. Musculation, CrossFit, Workout, Kick Boxing et Judo. Découvrez nos tarifs et entraînez-vous dans un environnement dédié à la performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
